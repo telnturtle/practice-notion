@@ -1,0 +1,21 @@
+{
+  "name": "practice-notion",
+  "version": "1.0.0",
+  "description": "Notion API practicing",
+  "main": "src/app.ts",
+  "author": "Eom Hwi-yong",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./bin/app.js",
+    "dev": "ts-node ./src/app.ts"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "ts-node": "^10.7.0"
+  }
+}
