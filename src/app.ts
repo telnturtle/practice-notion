@@ -1,3 +1,7 @@
-import addLinkToVocaDatabase from './addLinkToVocaDatabase';
+// import addLinkToVocaDatabase from './addLinkToVocaDatabase';
 
-addLinkToVocaDatabase();
+// addLinkToVocaDatabase();
+
+import convertCheatSheet from './convertCheatSheet';
+
+convertCheatSheet();
